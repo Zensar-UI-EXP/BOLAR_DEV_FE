@@ -1,0 +1,20 @@
+.loadingAbout {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.loadingBarPrimary {
+  height: 18px;
+  width: 220px;
+  background: #eee;
+  border-radius: 4px;
+}
+
+.loadingBarSecondary {
+  height: 12px;
+  width: 100px;
+  background: #f0f0f0;
+  border-radius: 4px;
+}
